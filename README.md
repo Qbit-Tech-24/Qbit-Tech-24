@@ -47,7 +47,7 @@ Here are some of our key contributions on GitHub:
 - 🌐 Website: [https://qbit-tech.com](https://qbit-tech.com)
 - 📧 Email: [info@qbit-tech.com](mailto:info@qbit-tech.com)
 - 🏢 Based in: Bangladesh
-- 💼 LinkedIn: _Coming soon..._
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/company/qbit-tech-it/)
 
 ---
 
