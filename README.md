@@ -1,6 +1,6 @@
 # 👋 Welcome to QBitTech's Official GitHub
 
-![QBitTech Logo](https://qbit-tech.com/assets/img/logo/qbittech_logo.png) <!-- Replace with actual image URL if needed -->
+![QBitTech Logo](https://qbit-tech.com/storage/uploads/setting/6820b919cd73c.png) <!-- Replace with actual image URL if needed -->
 
 **We Specialize in Transforming Your Idea or Business in the Current Digital Era.**
 
